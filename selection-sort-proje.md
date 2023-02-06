@@ -18,11 +18,11 @@
 - Average Case: O(n^2)
 - Best Case: O(n)
 
-### Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer?
+## Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer?
 
 Average case kapsamına girer  
 
-### [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
+## [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
 [7,3,5,8,2,9,4,15,6]  
 [2|3,5,8,7,9,4,15,6] -> 1. Adım  
